@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **ASjet/ASjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +11,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Aryan.ITFS@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Apple Funs
+- Using C++, Python
+- Interested in swift, rust, go
+- Dreaming of working in [Apple Park](https://en.wikipedia.org/wiki/Apple_Park)
+- Email: Aryan.ITFS@icloud.com
