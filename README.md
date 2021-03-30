@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Apple Funs
-- Using C++, Python
-- Interested in swift, rust, go
-- Dreaming of working in [Apple Park](https://en.wikipedia.org/wiki/Apple_Park)
-- Email: Aryan.ITFS@icloud.com
+- 🍎Apple Funs
+- 🛠Using C++, Python
+- 💡Interested in swift, rust, go
+- ✨Dreaming of working in [Apple Park](https://en.wikipedia.org/wiki/Apple_Park)
+- 📫 Email: Aryan.ITFS@icloud.com
