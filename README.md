@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🍎 Apple Funs
 - 🛠 Using C++, Python
-- 💡 Interested in Swift, Rust, Go
+- 💡 Interested in [Swift](https://developer.apple.com/swift/), [Rust](https://www.rust-lang.org/), [Go](https://golang.org/)
 - ✨ Dreaming of working in [Apple Park](https://en.wikipedia.org/wiki/Apple_Park)
 - 📚 Major: CV
 - 📫 Email: Aryan.ITFS@icloud.com
