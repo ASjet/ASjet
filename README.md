@@ -1,23 +1,7 @@
-<!--
 
-### Hi there 👋
-
-**ASjet/ASjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Aryan.ITFS@icloud.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🍎 Fun of [Apple](https://www.apple.com/)
 - 🛠 Using [C++](https://www.cplusplus.com/), [Python](https://www.python.org/)
-- 💡 Interested in [Swift](https://developer.apple.com/swift/), [Rust](https://www.rust-lang.org/), [Go](https://golang.org/)
+- 💡 Interested in CV/CG and O/S Kernel
 - ✨ Dreaming of working in [Apple Park](https://en.wikipedia.org/wiki/Apple_Park)
 - 📚 Major: EE
 - 📫 Email: Aryan.ITFS@icloud.com
