@@ -4,10 +4,11 @@ Hi there! This is Aryan Sjet, I'm
 - 📚 Major: Communication Engineering
 - 📫 Email: Aryan.ITFS@Gmail.com
 
-[![Linux](https://skills.thijs.gg/icons?i=linux&theme=dark)](https://kernel.org/)
-[![Vim](https://skills.thijs.gg/icons?i=vim&theme=dark)](https://www.vim.org/)
-[![C++](https://skills.thijs.gg/icons?i=cpp&theme=dark)](https://www.cplusplus.com/)
-[![Python](https://skills.thijs.gg/icons?i=python&theme=dark)](https://www.python.org/)
-[![Rust](https://skills.thijs.gg/icons?i=rust&theme=dark)](https://www.rust-lang.org/)
-[![Golang](https://skills.thijs.gg/icons?i=go&theme=dark)](https://go.dev/)
-[![JavaScript](https://skills.thijs.gg/icons?i=javascript&theme=dark)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![ArchLinux](https://img.shields.io/badge/Archlinux-FFFFFF?logo=archlinux)](https://archlinux.org/)
+[![Vim](https://img.shields.io/badge/Vim-019833?logo=vim)](https://www.vim.org/)
+[![C++](https://img.shields.io/badge/C++-1565C0?logo=cplusplus)](https://www.cplusplus.com/)
+[![Python](https://img.shields.io/badge/Python-FFE07B?logo=python)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](https://www.rust-lang.org/)
+[![Golang](https://img.shields.io/badge/Golang-FFFFFF?logo=go)](https://go.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FD8C11?logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+
