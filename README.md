@@ -2,7 +2,7 @@ Hi there! This is Aryan Sjet, I'm
 
 - 💡 Interested in OS Kernel/Distributed System
 - 📚 Major: Communication Engineering
-- 📫 Email: Aryan.ITFS@Gmail.com
+- 📫 Email: sjet@asjet.dev
 
 [![ArchLinux](https://img.shields.io/badge/Archlinux-FFFFFF?logo=archlinux)](https://archlinux.org/)
 [![Vim](https://img.shields.io/badge/Vim-019833?logo=vim)](https://www.vim.org/)
