@@ -10,4 +10,4 @@ Hi there! This is Aryan Sjet, I'm
 [![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-FFE07B?logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-1565C0?logo=cplusplus)](https://www.cplusplus.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FD8C11?logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FD8C11?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
