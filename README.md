@@ -2,7 +2,7 @@
 
 - 💡 Interested in OS Kernel/Distributed System
 - 📚 Major: Communication Engineering
-- 📫 Email: sjet@asjet.dev
+- 📫 Email: contact@asjet.dev
 
 [![ArchLinux](https://img.shields.io/badge/Archlinux-FFFFFF?logo=archlinux)](https://archlinux.org/)
 [![Vim](https://img.shields.io/badge/Vim-019833?logo=vim)](https://www.vim.org/)
