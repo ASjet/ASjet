@@ -7,5 +7,5 @@
 ---
 
 <p align="center">
-  <img src="./tech.svg" />
+  <img src="https://raw.githubusercontent.com/ASjet/ASjet/main/tech.svg" />
 </p>
