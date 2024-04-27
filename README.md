@@ -4,7 +4,7 @@
 - 📚 Major: Communication Engineering
 - 📫 Email: contact@asjet.dev
 
-<p align="center">中文|English|Deutsch|日本語</p>
+<p align="center">中文|English|Deutsch</p>
 
 ---
 
