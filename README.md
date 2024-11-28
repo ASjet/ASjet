@@ -1,4 +1,4 @@
-# 👋 Hi there! This is Aryan Sjet, I'm
+# 👋 Hi there! This is Sjet, I'm
 
 - 💡 Interested in OS Kernel/Distributed System
 - 📚 Major: Communication Engineering
